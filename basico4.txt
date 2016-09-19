@@ -1,12 +1,4 @@
 
-hola
-
-
-se supone que 
-
-alterando esta linea
-hola
-
 yo no quiero mirar
 lo que he mirado 
 a traves del cristal
@@ -16,4 +8,4 @@ aqui probando otra cosa
 de la experiencia, el mundo
 es un mercado en el que se compra
  
-amiguitos
+
