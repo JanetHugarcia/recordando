@@ -1,1 +1,3 @@
-tambien modifico linea1
+estoy modificando linea 1
+tambien modifico linea1 pero ya estoy en la 2
+
